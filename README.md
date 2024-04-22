@@ -1,9 +1,7 @@
-#Sam's NeoVim config
+#Sam's dotfiles
 
 ##TO FIX
-switch no-longer-maintained Packer package manager to lazy.nvim
-
-https://github.com/folke/lazy.nvim
+switch no-longer-maintained Packer package manager to [lazy.nvim](https://github.com/folke/lazy.nvim)
 
 ##Getting WSL configured
 

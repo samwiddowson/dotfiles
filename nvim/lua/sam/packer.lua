@@ -84,4 +84,8 @@ return require('packer').startup(function(use)
             'nvim-tree/nvim-web-devicons', -- optional
         },
     }
+
+    use {'echasnovski/mini.comment'}
+
+    use {'echasnovski/mini.surround'}
 end)

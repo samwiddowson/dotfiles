@@ -1,5 +1,5 @@
-tmux new-session -n 'NeoVim' 'nvim .' \; \
+tmux new-session -n 'NeoVim' \; \
+    send-keys 'nvim .' C-m \; \
 	split-window -h -p 25 \; \
-	send-keys 'npm run dev' C-m \; \
 	split-window -v -p 30 \; \
 	select-pane -t 1 \;

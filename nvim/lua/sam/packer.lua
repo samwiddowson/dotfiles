@@ -88,4 +88,6 @@ return require('packer').startup(function(use)
     use {'echasnovski/mini.comment'}
 
     use {'echasnovski/mini.surround'}
+
+    use("nathom/tmux.nvim")
 end)

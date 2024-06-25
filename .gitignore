@@ -1,1 +1,15 @@
 /tmux/plugins/**
+/enchant/
+/.gsd-keyboard.settings-ported
+/.nuxtrc
+/dconf/
+/evolution/
+/glib-2.0/
+/gnome-initial-setup-done
+/gtk-3.0/
+/ibus/
+/nvm/
+/pulse/
+/tiling-assistant/
+/user-dirs.dirs
+/user-dirs.locale
